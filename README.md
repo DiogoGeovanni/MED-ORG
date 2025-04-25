@@ -98,7 +98,9 @@ O escopo do produto tem o intuito de automatizar diferentes objetivos para a pop
 
 - Diogo Geovanni Da Silva Mendes
 
-- David Cândido De Souza    
+- David Cândido De Souza
+
+- Salomão Pernambucano Lima Galindo 
 
 
 # 👨‍⚕️Profissionais de Saúde
